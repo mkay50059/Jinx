@@ -1,7 +1,7 @@
 {
     "name": "Jinx-v1",
     "version": "1.0.0",
-    "description": "Private WhatsApp bot",
+    "description": "Public WhatsApp bot",
     "main": "index.js",
     "scripts": {
         "start": "node server.js"
